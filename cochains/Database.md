@@ -54,4 +54,4 @@ Pulse.Database (formally SQeeL) is Pulse’s decentralized SQL database system, 
 
 SQeeL revolutionizes decentralized database management by combining powerful SQL capabilities with a visual, user-friendly interface and AI-driven assistance. With tools for collaboration, monetization, and integration across co-chains, SQeeL provides a seamless experience for developers, creators, and enterprises alike.
 
-Whether building public datasets, private repositories, or interactive applications, SQeeL empowers you to store, visualize, and manage data effectively on Modulr.
+Whether building public datasets, private repositories, or interactive applications, SQeeL empowers you to store, visualize, and manage data effectively on Pulse.
