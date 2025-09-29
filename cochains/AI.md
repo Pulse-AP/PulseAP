@@ -52,4 +52,4 @@ Pulse.AI (formally Mimic) is Pulses dedicated AI co-chain, designed to revolutio
 
 **In Summary**
 
-Mimic redefines AI for decentralized networks, combining modularity, scalability, and user empowerment. It’s not just an AI service—it’s a foundation for innovation, creativity, and community-driven progress on Modulr.
+Mimic redefines AI for decentralized networks, combining modularity, scalability, and user empowerment. It’s not just an AI service—it’s a foundation for innovation, creativity, and community-driven progress on Pulse.
