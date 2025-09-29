@@ -4,7 +4,7 @@ This is from the core whitepaper and should be used as a starting point for the 
 
 ---
 
-Pulse.Database (formally SQeeL) is Modulr’s decentralized SQL database system, designed to create and manage on-chain databases with seamless scalability, robust user features, and enhanced developer tools. Built to balance power and usability, SQeeL transforms decentralized database management into a streamlined, interactive experience.
+Pulse.Database (formally SQeeL) is Pulse’s decentralized SQL database system, designed to create and manage on-chain databases with seamless scalability, robust user features, and enhanced developer tools. Built to balance power and usability, SQeeL transforms decentralized database management into a streamlined, interactive experience.
 
 #### Key Features
 
